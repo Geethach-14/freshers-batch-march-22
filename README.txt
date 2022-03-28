@@ -1,4 +1,3 @@
-Hidden document
+Hidden documents in the folder
 README text file
 CSS document
-README text file

@@ -1,1 +1,3 @@
-Hidden documents are in this file
+Hidden documents
+README text file
+CSS document
